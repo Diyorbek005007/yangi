@@ -1,0 +1,21 @@
+.dive{
+    background-color: white;
+    text-align: center;
+    gap: 50px;
+    display: flex;
+}
+.dive1{
+    text-align: center;
+}
+.dive3{
+    color: white;
+    background-color: red;
+    width: 1000px;
+    height: 120px;
+    padding:  40px;
+}
+.dive2{
+    gap: 20px;
+    display: flex;
+    text-align: center;
+}
